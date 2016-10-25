@@ -2,8 +2,10 @@
 name = "libresample"
 description = "Wrapper for libresample (resampling library for sounds)"
 license = "MIT"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Gleb Pomykalov <gleb@pomykalov.ru>"]
+repository = "https://github.com/lrbalt/libsoxr-rs"
+keywords = ["audio", "sound", "resampling", "libresample"]
 
 [dependencies]
 libc = "0.2.17"
