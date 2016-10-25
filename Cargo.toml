@@ -1,0 +1,8 @@
+[package]
+name = "libresample"
+version = "0.1.0"
+authors = ["Gleb Pomykalov <gleb@pomykalov.ru>"]
+
+[dependencies]
+libc = "0.2.17"
+
